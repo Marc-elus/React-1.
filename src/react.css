@@ -1,0 +1,46 @@
+.first{ 
+    color: rgb(92, 34, 66);
+    font-size: large;
+    text-decoration: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+
+}
+.card-content {
+    width: 300px;
+    border: 1px solid #e6c1c1;
+    box-shadow: 0 2px 4px rgba(214, 128, 178, 0.548);
+    margin: 30px;
+    overflow: hidden;
+    height: 300px;
+
+}
+.card-content:hover {
+background-image: url('./R.jpg');
+background-size: cover;
+opacity: 0.8;
+
+}
+.Card-container {
+    display: flex;
+}
+.My-text {
+    font-size: 20px ;
+    font-weight: initial ;
+    padding: 10px 0 0 15px ;
+    position: fixed;
+    bottom: 50%;
+
+  
+}
+.Geysir-text{
+    padding: 10px 0 0 100px ;
+    
+}
+
+.Button-style  {
+position: fixed;
+bottom: 47%;
+}
