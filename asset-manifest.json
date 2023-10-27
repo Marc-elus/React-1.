@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.f5003580.css",
-    "main.js": "./static/js/main.296a4a2b.js",
+    "main.css": "./static/css/main.f5f9759e.css",
+    "main.js": "./static/js/main.9c51f7bb.js",
     "static/js/787.e56f57c5.chunk.js": "./static/js/787.e56f57c5.chunk.js",
-    "static/media/R.jpg": "./static/media/R.fcce897a55ebcd09aa7c.jpg",
+    "static/media/snaefellsnes.jpg": "./static/media/snaefellsnes.635136fadcbbf063184e.jpg",
+    "static/media/OIP (2).jpg": "./static/media/OIP (2).a5a9ecf905ee9a5ec61f.jpg",
+    "static/media/Skafta.jpg": "./static/media/Skafta.d15159ca6c3044d74a64.jpg",
     "index.html": "./index.html",
-    "main.f5003580.css.map": "./static/css/main.f5003580.css.map",
-    "main.296a4a2b.js.map": "./static/js/main.296a4a2b.js.map",
+    "main.f5f9759e.css.map": "./static/css/main.f5f9759e.css.map",
+    "main.9c51f7bb.js.map": "./static/js/main.9c51f7bb.js.map",
     "787.e56f57c5.chunk.js.map": "./static/js/787.e56f57c5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5003580.css",
-    "static/js/main.296a4a2b.js"
+    "static/css/main.f5f9759e.css",
+    "static/js/main.9c51f7bb.js"
   ]
 }
