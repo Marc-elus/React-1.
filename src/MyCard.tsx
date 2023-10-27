@@ -1,16 +1,23 @@
 import Button from "./react"
 import './react.css'
-const MyCard= ()=>{
+
+type Props={ 
+Title: string,
+info: string,
+pic:string,
+}
+const MyCard= ({Title,info,pic}:Props)=>{
 
     return (
         <div className="card-content">
+            <img className='container-pic' src={pic} alt="img" />
         <h2 className='Geysir-text'>
-            Geysir
+         {Title}
             </h2>
         <p className='My-text'>
-            Most visited place in Iceland.
+           {info}
             </p>
-        <Button></Button>
+        <Button/>
     </div>
     )
 }
